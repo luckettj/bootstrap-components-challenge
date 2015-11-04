@@ -1,0 +1,10 @@
+.jumbotron{
+	background-color: purple;
+	color: black;
+}
+
+#splash-add{
+	background: url(img/doghuman.jpg) center no-repeat;
+	background-size: cover;
+}
+
